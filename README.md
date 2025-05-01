@@ -1,0 +1,2 @@
+# AWConf
+NeoVim Configuration
