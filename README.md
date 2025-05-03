@@ -1,4 +1,5 @@
-# AWConf
+<h1 align="center">AWConf</h1>
+
 ## Preface
 Im staring this configuration as NeoVim begginer, so tips and tricks are welcome.
 I will comment bacis info about thinks and what they do, by that manner i can understand better what they do, and possibly it will be easier for other nvim newbies to understand certain things.
