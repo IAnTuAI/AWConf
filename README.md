@@ -1,10 +1,15 @@
-# Preface
+# AWConf
+## Preface
 Im staring this configuration as NeoVim begginer, so tips and tricks are welcome.
 I will comment bacis info about thinks and what they do, by that manner i can understand better what they do, and possibly it will be easier for other nvim newbies to understand certain things.
 
-# Credits
+## Credits
 <details>
-  <summary>Sites</summary>
+  <summary> 
+    
+  ### Sites
+   
+  </summary>
   
   > [ChatGPT - Fixing stuff, understanding better, researching faster](https://chatgpt.com/)
   >
@@ -19,4 +24,15 @@ I will comment bacis info about thinks and what they do, by that manner i can un
   > - [SemVer Versioning](https://semver.org/)
   > </details>
   
+</details>
+
+<details>
+  <summary>
+
+  ### Configs that i studied 
+    
+  </summary>
+  
+  > - [NvChad](https://github.com/NvChad/NvChad/)
+
 </details>
