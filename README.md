@@ -6,7 +6,7 @@ I will comment bacis info about thinks and what they do, by that manner i can un
 <details>
   <summary>Sites</summary>
   
-  > - [ChatGPT - Fixing stuff, understanding better, researching faster](https://chatgpt.com/)
+  > [ChatGPT - Fixing stuff, understanding better, researching faster](https://chatgpt.com/)
   >
   > <details>
   >  <summary>
