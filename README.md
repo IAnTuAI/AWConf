@@ -15,8 +15,8 @@ I will comment bacis info about thinks and what they do, by that manner i can un
   >
   >  - [Markdown syntax](https://www.markdownguide.org)
   > 
-  > - [Project Versioning ()](https://en.wikipedia.org/wiki/Software_versioning)
-  >
+  > - [Project Versioning](https://en.wikipedia.org/wiki/Software_versioning)
+  > - [SemVer Versioning](https://semver.org/)
   > </details>
   
 </details>
