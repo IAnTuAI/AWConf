@@ -1,4 +1,5 @@
 <h1 align="center">AWConf</h1>
+<h4 align="center">(v0.1.0-Alpha)</h4>
 
 ## Preface
 Im staring this configuration as NeoVim begginer, so tips and tricks are welcome.
